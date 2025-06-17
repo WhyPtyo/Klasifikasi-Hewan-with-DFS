@@ -1,0 +1,23 @@
+animal_name,specific_name,class_name,order_name,type,hair,feathers,eggs,milk,airborne,aquatic,predator,toothed,backbone,breathes,venomous,fins,legs,tail,domestic,catsize
+kucing,Kucing (Felis catus),Mamalia,Karnivora,1,1,0,0,1,0,0,1,1,1,1,0,0,4,1,1,1
+anjing,Anjing (Canis lupus familiaris),Mamalia,Karnivora,1,1,0,0,1,0,0,1,1,1,1,0,0,4,1,1,1
+beruang,Beruang (Ursus arctos),Mamalia,Karnivora,1,1,0,0,1,0,0,1,1,1,1,0,0,4,1,0,1
+sapi,Sapi (Bos taurus),Mamalia,Herbivora,1,1,0,0,1,0,0,0,1,1,1,0,0,4,1,1,1
+kuda,Kuda (Equus ferus caballus),Mamalia,Herbivora,1,1,0,0,1,0,0,0,1,1,1,0,0,4,1,1,1
+kambing,Kambing (Capra aegagrus hircus),Mamalia,Herbivora,1,1,0,0,1,0,0,0,1,1,1,0,0,4,1,1,1
+gorila,Gorila (Gorilla gorilla),Mamalia,Primata,1,1,0,0,1,0,0,0,1,1,1,0,0,2,1,0,0
+simpanse,Simpanse (Pan troglodytes),Mamalia,Primata,1,1,0,0,1,0,0,0,1,1,1,0,0,2,1,0,0
+orangutan,Orangutan (Pongo pygmaeus),Mamalia,Primata,1,1,0,0,1,0,0,0,1,1,1,0,0,2,1,0,0
+babi,Babi (Sus scrofa domesticus),Mamalia,Omnivora,1,1,0,0,1,0,0,0,1,1,1,0,0,4,1,1,1
+rakun,Rakun (Procyon lotor),Mamalia,Omnivora,1,1,0,0,1,0,0,1,1,1,1,0,0,4,1,0,0
+beruang_madu,Beruang Madu (Helarctos malayanus),Mamalia,Omnivora,1,1,0,0,1,0,0,1,1,1,1,0,0,4,1,0,1
+elang,Elang (Haliaeetus leucocephalus),Burung,Raptor,2,0,1,1,0,1,0,1,0,1,1,0,0,2,1,0,0
+rajawali,Rajawali (Aquila chrysaetos),Burung,Raptor,2,0,1,1,0,1,0,1,0,1,1,0,0,2,1,0,0
+penguin_kaisar,Penguin Kaisar (Aptenodytes forsteri),Burung,Penguin,2,0,1,1,0,0,1,0,0,1,1,0,0,2,1,0,0
+bebek,Bebek (Anas platyrhynchos),Burung,Perenang,2,0,1,1,0,1,1,0,0,1,1,0,0,2,1,1,0
+angsa,Angsa (Cygnus olor),Burung,Perenang,2,0,1,1,0,1,1,0,0,1,1,0,0,2,1,1,0
+ular_piton,Ular Piton (Python bivittatus),Reptil,Ular,3,0,0,1,0,0,0,0,1,1,1,0,0,0,1,0,0
+ular_kobra,Ular Kobra (Naja naja),Reptil,Ular,3,0,0,1,0,0,0,0,1,1,1,1,0,0,1,0,0
+iguana,Iguana (Iguana iguana),Reptil,Kadal,3,0,0,1,0,0,0,0,1,1,1,0,0,4,1,0,0
+komodo,Komodo (Varanus komodoensis),Reptil,Kadal,3,0,0,1,0,0,0,1,1,1,1,1,0,4,1,0,0
+kura_kura_galapagos,Kura-kura Galapagos (Chelonoidis nigra),Reptil,Kura-kura,3,0,0,1,0,0,0,0,0,1,1,0,0,4,1,0,0

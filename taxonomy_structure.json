@@ -1,0 +1,519 @@
+{
+  "Mamalia": {
+    "id": 1,
+    "orders": {
+      "Karnivora": {
+        "species": {
+          "Kucing": {
+            "scientific_name": "Felis catus",
+            "characteristics": {
+              "hair": 1,
+              "feathers": 0,
+              "eggs": 0,
+              "milk": 1,
+              "airborne": 0,
+              "aquatic": 0,
+              "predator": 1,
+              "toothed": 1,
+              "backbone": 1,
+              "breathes": 1,
+              "venomous": 0,
+              "fins": 0,
+              "legs": 4,
+              "tail": 1,
+              "domestic": 1,
+              "catsize": 1
+            }
+          },
+          "Anjing": {
+            "scientific_name": "Canis lupus familiaris",
+            "characteristics": {
+              "hair": 1,
+              "feathers": 0,
+              "eggs": 0,
+              "milk": 1,
+              "airborne": 0,
+              "aquatic": 0,
+              "predator": 1,
+              "toothed": 1,
+              "backbone": 1,
+              "breathes": 1,
+              "venomous": 0,
+              "fins": 0,
+              "legs": 4,
+              "tail": 1,
+              "domestic": 1,
+              "catsize": 1
+            }
+          },
+          "Beruang": {
+            "scientific_name": "Ursus arctos",
+            "characteristics": {
+              "hair": 1,
+              "feathers": 0,
+              "eggs": 0,
+              "milk": 1,
+              "airborne": 0,
+              "aquatic": 0,
+              "predator": 1,
+              "toothed": 1,
+              "backbone": 1,
+              "breathes": 1,
+              "venomous": 0,
+              "fins": 0,
+              "legs": 4,
+              "tail": 1,
+              "domestic": 0,
+              "catsize": 1
+            }
+          }
+        }
+      },
+      "Herbivora": {
+        "species": {
+          "Sapi": {
+            "scientific_name": "Bos taurus",
+            "characteristics": {
+              "hair": 1,
+              "feathers": 0,
+              "eggs": 0,
+              "milk": 1,
+              "airborne": 0,
+              "aquatic": 0,
+              "predator": 0,
+              "toothed": 1,
+              "backbone": 1,
+              "breathes": 1,
+              "venomous": 0,
+              "fins": 0,
+              "legs": 4,
+              "tail": 1,
+              "domestic": 1,
+              "catsize": 1
+            }
+          },
+          "Kuda": {
+            "scientific_name": "Equus ferus caballus",
+            "characteristics": {
+              "hair": 1,
+              "feathers": 0,
+              "eggs": 0,
+              "milk": 1,
+              "airborne": 0,
+              "aquatic": 0,
+              "predator": 0,
+              "toothed": 1,
+              "backbone": 1,
+              "breathes": 1,
+              "venomous": 0,
+              "fins": 0,
+              "legs": 4,
+              "tail": 1,
+              "domestic": 1,
+              "catsize": 1
+            }
+          },
+          "Kambing": {
+            "scientific_name": "Capra aegagrus hircus",
+            "characteristics": {
+              "hair": 1,
+              "feathers": 0,
+              "eggs": 0,
+              "milk": 1,
+              "airborne": 0,
+              "aquatic": 0,
+              "predator": 0,
+              "toothed": 1,
+              "backbone": 1,
+              "breathes": 1,
+              "venomous": 0,
+              "fins": 0,
+              "legs": 4,
+              "tail": 1,
+              "domestic": 1,
+              "catsize": 1
+            }
+          }
+        }
+      },
+      "Omnivora": {
+        "species": {
+          "Babi": {
+            "scientific_name": "Sus scrofa domesticus",
+            "characteristics": {
+              "hair": 1,
+              "feathers": 0,
+              "eggs": 0,
+              "milk": 1,
+              "airborne": 0,
+              "aquatic": 0,
+              "predator": 0,
+              "toothed": 1,
+              "backbone": 1,
+              "breathes": 1,
+              "venomous": 0,
+              "fins": 0,
+              "legs": 4,
+              "tail": 1,
+              "domestic": 1,
+              "catsize": 1
+            }
+          },
+          "Rakun": {
+            "scientific_name": "Procyon lotor",
+            "characteristics": {
+              "hair": 1,
+              "feathers": 0,
+              "eggs": 0,
+              "milk": 1,
+              "airborne": 0,
+              "aquatic": 0,
+              "predator": 1,
+              "toothed": 1,
+              "backbone": 1,
+              "breathes": 1,
+              "venomous": 0,
+              "fins": 0,
+              "legs": 4,
+              "tail": 1,
+              "domestic": 0,
+              "catsize": 0
+            }
+          },
+          "Beruang Madu": {
+            "scientific_name": "Helarctos malayanus",
+            "characteristics": {
+              "hair": 1,
+              "feathers": 0,
+              "eggs": 0,
+              "milk": 1,
+              "airborne": 0,
+              "aquatic": 0,
+              "predator": 1,
+              "toothed": 1,
+              "backbone": 1,
+              "breathes": 1,
+              "venomous": 0,
+              "fins": 0,
+              "legs": 4,
+              "tail": 1,
+              "domestic": 0,
+              "catsize": 1
+            }
+          }
+        }
+      },
+      "Primata": {
+        "species": {
+          "Gorila": {
+            "scientific_name": "Gorilla gorilla",
+            "characteristics": {
+              "hair": 1,
+              "feathers": 0,
+              "eggs": 0,
+              "milk": 1,
+              "airborne": 0,
+              "aquatic": 0,
+              "predator": 0,
+              "toothed": 1,
+              "backbone": 1,
+              "breathes": 1,
+              "venomous": 0,
+              "fins": 0,
+              "legs": 2,
+              "tail": 1,
+              "domestic": 0,
+              "catsize": 0
+            }
+          },
+          "Simpanse": {
+            "scientific_name": "Pan troglodytes",
+            "characteristics": {
+              "hair": 1,
+              "feathers": 0,
+              "eggs": 0,
+              "milk": 1,
+              "airborne": 0,
+              "aquatic": 0,
+              "predator": 0,
+              "toothed": 1,
+              "backbone": 1,
+              "breathes": 1,
+              "venomous": 0,
+              "fins": 0,
+              "legs": 2,
+              "tail": 1,
+              "domestic": 0,
+              "catsize": 0
+            }
+          },
+          "Orangutan": {
+            "scientific_name": "Pongo pygmaeus",
+            "characteristics": {
+              "hair": 1,
+              "feathers": 0,
+              "eggs": 0,
+              "milk": 1,
+              "airborne": 0,
+              "aquatic": 0,
+              "predator": 0,
+              "toothed": 1,
+              "backbone": 1,
+              "breathes": 1,
+              "venomous": 0,
+              "fins": 0,
+              "legs": 2,
+              "tail": 1,
+              "domestic": 0,
+              "catsize": 0
+            }
+          }
+        }
+      }
+    }
+  },
+  "Burung": {
+    "id": 2,
+    "orders": {
+      "Raptor": {
+        "species": {
+          "Elang": {
+            "scientific_name": "Haliaeetus leucocephalus",
+            "characteristics": {
+              "hair": 0,
+              "feathers": 1,
+              "eggs": 1,
+              "milk": 0,
+              "airborne": 1,
+              "aquatic": 0,
+              "predator": 1,
+              "toothed": 0,
+              "backbone": 1,
+              "breathes": 1,
+              "venomous": 0,
+              "fins": 0,
+              "legs": 2,
+              "tail": 1,
+              "domestic": 0,
+              "catsize": 0
+            }
+          },
+          "Rajawali": {
+            "scientific_name": "Aquila chrysaetos",
+            "characteristics": {
+              "hair": 0,
+              "feathers": 1,
+              "eggs": 1,
+              "milk": 0,
+              "airborne": 1,
+              "aquatic": 0,
+              "predator": 1,
+              "toothed": 0,
+              "backbone": 1,
+              "breathes": 1,
+              "venomous": 0,
+              "fins": 0,
+              "legs": 2,
+              "tail": 1,
+              "domestic": 0,
+              "catsize": 0
+            }
+          }
+        }
+      },
+      "Penguin": {
+        "species": {
+          "Penguin Kaisar": {
+            "scientific_name": "Aptenodytes forsteri",
+            "characteristics": {
+              "hair": 0,
+              "feathers": 1,
+              "eggs": 1,
+              "milk": 0,
+              "airborne": 0,
+              "aquatic": 1,
+              "predator": 0,
+              "toothed": 0,
+              "backbone": 1,
+              "breathes": 1,
+              "venomous": 0,
+              "fins": 0,
+              "legs": 2,
+              "tail": 1,
+              "domestic": 0,
+              "catsize": 0
+            }
+          }
+        }
+      },
+      "Perenang": {
+        "species": {
+          "Bebek": {
+            "scientific_name": "Anas platyrhynchos",
+            "characteristics": {
+              "hair": 0,
+              "feathers": 1,
+              "eggs": 1,
+              "milk": 0,
+              "airborne": 1,
+              "aquatic": 1,
+              "predator": 0,
+              "toothed": 0,
+              "backbone": 1,
+              "breathes": 1,
+              "venomous": 0,
+              "fins": 0,
+              "legs": 2,
+              "tail": 1,
+              "domestic": 1,
+              "catsize": 0
+            }
+          },
+          "Angsa": {
+            "scientific_name": "Cygnus olor",
+            "characteristics": {
+              "hair": 0,
+              "feathers": 1,
+              "eggs": 1,
+              "milk": 0,
+              "airborne": 1,
+              "aquatic": 1,
+              "predator": 0,
+              "toothed": 0,
+              "backbone": 1,
+              "breathes": 1,
+              "venomous": 0,
+              "fins": 0,
+              "legs": 2,
+              "tail": 1,
+              "domestic": 1,
+              "catsize": 0
+            }
+          }
+        }
+      }
+    }
+  },
+  "Reptil": {
+    "id": 3,
+    "orders": {
+      "Ular": {
+        "species": {
+          "Ular Piton": {
+            "scientific_name": "Python bivittatus",
+            "characteristics": {
+              "hair": 0,
+              "feathers": 0,
+              "eggs": 1,
+              "milk": 0,
+              "airborne": 0,
+              "aquatic": 0,
+              "predator": 0,
+              "toothed": 1,
+              "backbone": 1,
+              "breathes": 1,
+              "venomous": 0,
+              "fins": 0,
+              "legs": 0,
+              "tail": 1,
+              "domestic": 0,
+              "catsize": 0
+            }
+          },
+          "Ular Kobra": {
+            "scientific_name": "Naja naja",
+            "characteristics": {
+              "hair": 0,
+              "feathers": 0,
+              "eggs": 1,
+              "milk": 0,
+              "airborne": 0,
+              "aquatic": 0,
+              "predator": 0,
+              "toothed": 1,
+              "backbone": 1,
+              "breathes": 1,
+              "venomous": 1,
+              "fins": 0,
+              "legs": 0,
+              "tail": 1,
+              "domestic": 0,
+              "catsize": 0
+            }
+          }
+        }
+      },
+      "Kadal": {
+        "species": {
+          "Iguana": {
+            "scientific_name": "Iguana iguana",
+            "characteristics": {
+              "hair": 0,
+              "feathers": 0,
+              "eggs": 1,
+              "milk": 0,
+              "airborne": 0,
+              "aquatic": 0,
+              "predator": 0,
+              "toothed": 1,
+              "backbone": 1,
+              "breathes": 1,
+              "venomous": 0,
+              "fins": 0,
+              "legs": 4,
+              "tail": 1,
+              "domestic": 0,
+              "catsize": 0
+            }
+          },
+          "Komodo": {
+            "scientific_name": "Varanus komodoensis",
+            "characteristics": {
+              "hair": 0,
+              "feathers": 0,
+              "eggs": 1,
+              "milk": 0,
+              "airborne": 0,
+              "aquatic": 0,
+              "predator": 1,
+              "toothed": 1,
+              "backbone": 1,
+              "breathes": 1,
+              "venomous": 1,
+              "fins": 0,
+              "legs": 4,
+              "tail": 1,
+              "domestic": 0,
+              "catsize": 0
+            }
+          }
+        }
+      },
+      "Kura-kura": {
+        "species": {
+          "Kura-kura Galapagos": {
+            "scientific_name": "Chelonoidis nigra",
+            "characteristics": {
+              "hair": 0,
+              "feathers": 0,
+              "eggs": 1,
+              "milk": 0,
+              "airborne": 0,
+              "aquatic": 0,
+              "predator": 0,
+              "toothed": 0,
+              "backbone": 1,
+              "breathes": 1,
+              "venomous": 0,
+              "fins": 0,
+              "legs": 4,
+              "tail": 1,
+              "domestic": 0,
+              "catsize": 0
+            }
+          }
+        }
+      }
+    }
+  }
+}
